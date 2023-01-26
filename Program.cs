@@ -50,9 +50,8 @@ namespace project_mina_database
             {
                 MessageBox.Show("Missing Data !!");
             }
-
-        }
-
-
+            else if ()
+            {
+            }
 
 
