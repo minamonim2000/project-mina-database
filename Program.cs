@@ -60,5 +60,13 @@ namespace project_mina_database
             {
                 MessageBox.Show("Wronng in Username or Password");
             }
+        }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
 
 
