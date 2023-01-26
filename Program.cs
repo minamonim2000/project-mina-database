@@ -21,3 +21,11 @@ namespace project_mina_database
         {
 
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+
+
