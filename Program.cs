@@ -33,7 +33,11 @@ namespace project_mina_database
         }
 
         private void label5_Click(object sender, EventArgs e)
-        {  }
+        {
+            Username.Text = "";
+
+
+        }
 
 
 
