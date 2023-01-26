@@ -53,6 +53,7 @@ namespace project_mina_database
             else if (Username.Text == "Admin" && pasword.Text == "123")
             {
                 Employee emp = new Employee();
+                emp.Show();
             }
 
 
