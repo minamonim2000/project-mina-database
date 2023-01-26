@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace project_mina_database
- {
-    public partial class Login : Form
 {
+    public partial class Login : Form
+    {
+        public Login()
+        {
+            InitializeComponent();
+        }
