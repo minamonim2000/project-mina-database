@@ -56,5 +56,9 @@ namespace project_mina_database
                 emp.Show();
                 this.Hide();
             }
+            else
+            {
+            
+            }
 
 
