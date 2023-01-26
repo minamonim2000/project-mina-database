@@ -46,7 +46,7 @@ namespace project_mina_database
 
         private void AddBtn_Click(object sender, EventArgs e)
         {
-            if (Username.Text == "Admin")
+            if (Username.Text == "Admin" && pasword.Text == "123")
             {
             }
 
