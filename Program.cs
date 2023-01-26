@@ -54,6 +54,7 @@ namespace project_mina_database
             {
                 Employee emp = new Employee();
                 emp.Show();
+                this.Hide();
             }
 
 
