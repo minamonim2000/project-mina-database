@@ -48,6 +48,7 @@ namespace project_mina_database
         {
             if (Username.Text == "Admin" && pasword.Text == "123")
             {
+                MessageBox.Show("Missing Data !!");
             }
 
         }
