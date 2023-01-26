@@ -46,7 +46,10 @@ namespace project_mina_database
 
         private void AddBtn_Click(object sender, EventArgs e)
         {
-   
+            if ()
+            {
+            }
+
         }
 
 
