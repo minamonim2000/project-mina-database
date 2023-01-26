@@ -16,3 +16,8 @@ namespace project_mina_database
         {
             InitializeComponent();
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
